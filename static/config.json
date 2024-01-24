@@ -1,0 +1,15 @@
+{ 
+    "config" : {
+        "server" : {
+            "proto": "http", 
+            "host": "185.105.91.51", 
+            "port": "8000"
+        }, 
+        "websocket": {
+            "proto": "ws",
+            "host": "185.105.91.51", 
+            "port": "8000"
+        }
+    }, 
+    "greetings": "Hello there, thanks for reaching out, i'll answer you asap"
+}

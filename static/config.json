@@ -3,12 +3,12 @@
         "server" : {
             "proto": "https", 
             "host": "dessan-matrix.online", 
-            "port": "443"
+            "port": "9000"
         }, 
         "websocket": {
             "proto": "wss",
             "host": "dessan-matrix.online", 
-            "port": "443"
+            "port": "9000"
         }
     }, 
     "greetings": "Hello there, thanks for reaching out, i'll answer you asap"

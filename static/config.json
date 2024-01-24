@@ -6,7 +6,7 @@
             "port": "9000"
         }, 
         "websocket": {
-            "proto": "ws",
+            "proto": "wss",
             "host": "dessan-matrix.online", 
             "port": "9000"
         }

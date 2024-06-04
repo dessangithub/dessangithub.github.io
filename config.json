@@ -1,0 +1,18 @@
+{
+    "homeserver": "https://matrix-dev.svgun.ru",
+    "auto_join_room":"!LIfwziGrTvVJiFYptZ:matrix-dev.svgun.ru",
+    "username_prefix": "Test_guest",
+    "header": {
+        "title": "Live Chat",
+        "avatar": "https://cs5.pikabu.ru/post_img/big/2015/03/25/5/1427266313_681511633.jpg"
+    },
+    "footer": {
+        "chatterbox_link": "https://dinf.svgun.ru/solution",
+        "matrix_link": "https://dinf.svgun.ru"
+    },
+    "token": "dL0IfthuqR_t_Rc6",
+    "invite_user": "@chatterbox:matrix-dev.svgun.ru",
+    "encrypt_room": false,
+    "avatar": "https://cs5.pikabu.ru/post_img/big/2015/03/25/5/1427266313_681511633.jpg",
+    "disable_composer_until_operator_join": false 
+}
